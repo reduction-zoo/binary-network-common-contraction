@@ -1,0 +1,5 @@
+{"case": "empty", "yes": true, "recoveries": 2}
+{"case": "positive-unit", "yes": true, "recoveries": 2}
+{"case": "contradictory-units", "yes": false, "recoveries": 0}
+{"case": "tautology", "yes": true, "recoveries": 2}
+{"case": "all-three-variable-clauses", "yes": false, "recoveries": 0}

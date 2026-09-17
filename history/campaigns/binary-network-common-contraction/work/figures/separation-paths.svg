@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" viewBox="0 0 700 260">
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7" fill="#374151"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<path d="M61.00167047616297,85.28960787729618 L121.24791190479628,138.38799015337977" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M128.75,153.0 L128.75,200.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M136.75,145.0 L192.5,145.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M202.5,153.0 L202.5,200.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M210.5,145.0 L266.25,145.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M276.25,153.0 L276.25,200.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M282.251670476163,139.71039212270384 L342.4979119047963,86.61200984662023" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M356.001670476163,85.28960787729618 L416.2479119047963,138.38799015337977" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M423.75,153.0 L423.75,200.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M431.75,145.0 L487.5,145.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M497.5,153.0 L497.5,200.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M505.5,145.0 L561.25,145.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M571.25,153.0 L571.25,200.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M577.251670476163,139.71039212270384 L637.4979119047963,86.61200984662023" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M63.0,80.0 L340.0,80.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M358.0,80.0 L635.0,80.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M55,71 C130,5 570,5 645,71" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arrow)"/>
+<circle cx="55" cy="80" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="55" y="65" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">R</text>
+<circle cx="350" cy="80" r="7" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+<text x="350" y="65" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">A</text>
+<circle cx="645" cy="80" r="7" fill="#ffedd5" stroke="#374151" stroke-width="1.5"/>
+<text x="645" y="65" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">B</text>
+<circle cx="128.75" cy="145" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="128.75" cy="210" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="202.5" cy="145" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="202.5" cy="210" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="276.25" cy="145" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="276.25" cy="210" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="423.75" cy="145" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="423.75" cy="210" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="497.5" cy="145" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="497.5" cy="210" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="571.25" cy="145" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<circle cx="571.25" cy="210" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="205" y="248" font-family="Times New Roman, serif" font-size="17" text-anchor="middle" fill="#111827">L marked internal vertices</text>
+<text x="495" y="248" font-family="Times New Roman, serif" font-size="17" text-anchor="middle" fill="#111827">L marked internal vertices</text>
+</svg>

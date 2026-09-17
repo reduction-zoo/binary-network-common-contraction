@@ -1,0 +1,9 @@
+{"source": {"elements": [], "sets": []}, "yes": true, "orders": [7, 7], "atoms": 4, "cuts": 0}
+{"source": {"elements": [0, 1, 2], "sets": []}, "yes": true, "orders": [7, 7], "atoms": 4, "cuts": 0}
+{"source": {"elements": [], "sets": [[]]}, "yes": false, "orders": [7, 7], "atoms": 3, "cuts": 0}
+{"source": {"elements": [0, 1], "sets": [[0]]}, "yes": false, "orders": [7, 7], "atoms": 3, "cuts": 0}
+{"source": {"elements": [0, 1, 2], "sets": [[0, 1], [1, 2], [0, 2]]}, "yes": false, "orders": [117, 99], "atoms": 14, "cuts": 14}
+{"source": {"elements": [0, 1, 2, 3], "sets": [[0, 1, 2], [1, 2, 3]]}, "yes": true, "orders": [117, 97], "atoms": 17, "cuts": 5}
+{"source": {"elements": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "sets": [[0, 2, 10], [0, 2, 10], [2, 10, 11]]}, "yes": true, "orders": [139, 109], "atoms": 17, "cuts": 4}
+{"case": "two_free_variables_above_threshold", "threshold": 15, "recovery_calls": 2, "atoms": 17, "cuts": 4}
+{"case": "free_variables_and_merged_path", "threshold": 14, "recovery_calls": 2, "atoms": 17, "cuts": 2}

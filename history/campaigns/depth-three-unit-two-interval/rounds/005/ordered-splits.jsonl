@@ -1,0 +1,7 @@
+{"case": "one-distinct-clause", "vertices": 234, "peeled_private_gadgets": 24, "yes": true, "recoveries": 2}
+{"case": "empty-with-unused-variables", "vertices": 0, "peeled_private_gadgets": 0, "yes": true, "recoveries": 2}
+{"case": "empty", "vertices": 0, "peeled_private_gadgets": 0, "yes": true, "recoveries": 2}
+{"case": "positive-unit", "vertices": 936, "peeled_private_gadgets": 96, "yes": true, "recoveries": 2}
+{"case": "contradictory-units", "vertices": 1872, "peeled_private_gadgets": 192, "yes": false, "recoveries": 0}
+{"case": "tautology", "vertices": 0, "peeled_private_gadgets": 0, "yes": true, "recoveries": 2}
+{"case": "all-three-variable-clauses", "vertices": 1872, "peeled_private_gadgets": 192, "yes": false, "recoveries": 0}

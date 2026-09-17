@@ -1,0 +1,150 @@
+[
+  {
+    "source": {
+      "sets": [],
+      "elements": []
+    },
+    "yes": true
+  },
+  {
+    "source": {
+      "sets": [
+        []
+      ],
+      "elements": []
+    },
+    "yes": false
+  },
+  {
+    "source": {
+      "sets": [
+        [
+          0
+        ]
+      ],
+      "elements": [
+        0
+      ]
+    },
+    "yes": false
+  },
+  {
+    "source": {
+      "sets": [
+        [
+          0,
+          1
+        ]
+      ],
+      "elements": [
+        0,
+        1
+      ]
+    },
+    "yes": true
+  },
+  {
+    "source": {
+      "sets": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "elements": [
+        0,
+        1,
+        2
+      ]
+    },
+    "yes": false
+  },
+  {
+    "source": {
+      "sets": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "elements": [
+        0,
+        1,
+        2
+      ]
+    },
+    "yes": true
+  },
+  {
+    "source": {
+      "sets": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "elements": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "yes": true
+  },
+  {
+    "source": {
+      "sets": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "elements": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "yes": false
+  }
+]

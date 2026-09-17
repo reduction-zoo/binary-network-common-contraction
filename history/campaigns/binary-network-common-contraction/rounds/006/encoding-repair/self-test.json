@@ -1,0 +1,1 @@
+{"source_cases": 8, "target_comparisons": 112, "network_sizes": [7, 7, 7, 9], "enumerated_states": [4, 4, 4, 22], "z3": "5.1.0", "networkx": "3.6.1"}
