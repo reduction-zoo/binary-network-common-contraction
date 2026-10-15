@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="250" viewBox="0 0 720 250">
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7" fill="#374151"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<text x="180" y="25" font-family="Times New Roman, serif" font-size="21" text-anchor="middle" fill="#111827">Incidence network G</text>
+<text x="540" y="25" font-family="Times New Roman, serif" font-size="21" text-anchor="middle" fill="#111827">Reference network H</text>
+<path d="M52.155417527999326,111.42229123600033 L136.05572809000085,69.47213595499957" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M51.859943405700356,119.11596604342022 L136.42507074287457,169.85504244572473" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M45,107 C45,35 325,30 335,56" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M151,59 C190,25 292,25 329,58" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M153.0,65.0 L230.0,65.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M150.22895896276873,168.94541593784672 L233.4638012965391,72.5682300776916" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M248.0,65.0 L325.0,65.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M245.22895896276873,71.05458406215328 L328.4638012965391,167.4317699223084" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M151.92341028384902,69.00829016433363 L231.34573714518874,114.98963729458295" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M151.92341028384902,170.99170983566637 L231.34573714518874,125.01036270541705" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M246.92341028384902,115.99170983566637 L326.34573714518876,70.01036270541705" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M246.92341028384902,124.00829016433363 L326.34573714518876,169.98963729458296" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M150.22895896276873,71.05458406215328 L233.4638012965391,167.4317699223084" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M153.0,175.0 L230.0,175.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M245.22895896276873,168.94541593784672 L328.4638012965391,72.5682300776916" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M248.0,175.0 L325.0,175.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<circle cx="45" cy="115" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="45" y="100" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">R</text>
+<circle cx="145" cy="65" r="7" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+<text x="145" y="50" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">A</text>
+<circle cx="145" cy="175" r="7" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+<text x="145" y="160" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">U</text>
+<circle cx="240" cy="65" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="240" y="90" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">X₁</text>
+<circle cx="240" cy="120" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="240" y="105" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">X₂</text>
+<circle cx="240" cy="175" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="240" y="160" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">X₃</text>
+<circle cx="335" cy="65" r="7" fill="#ffedd5" stroke="#374151" stroke-width="1.5"/>
+<text x="335" y="50" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">B</text>
+<circle cx="335" cy="175" r="7" fill="#ffedd5" stroke="#374151" stroke-width="1.5"/>
+<text x="335" y="160" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">V</text>
+<path d="M406.6564023547028,110.56239843019817 L466.6794970566216,70.5470019622523" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M400,107 C400,35 655,30 665,56" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M481,59 C520,25 622,25 659,58" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M483.0,65.0 L560.0,65.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M578.0,65.0 L655.0,65.0" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M481.923410283849,69.00829016433363 L561.3457371451888,114.98963729458295" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M576.923410283849,115.99170983566637 L656.3457371451888,70.01036270541705" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M480.22895896276873,71.05458406215328 L563.463801296539,167.4317699223084" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<path d="M575.2289589627687,168.94541593784672 L658.463801296539,72.5682300776916" fill="none" stroke="#374151" stroke-width="1.6" marker-end="url(#arrow)"/>
+<circle cx="400" cy="115" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="400" y="100" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">R</text>
+<circle cx="475" cy="65" r="7" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+<text x="475" y="50" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">A</text>
+<circle cx="665" cy="65" r="7" fill="#ffedd5" stroke="#374151" stroke-width="1.5"/>
+<text x="665" y="50" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">B</text>
+<circle cx="570" cy="65" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="570" y="90" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">X₁</text>
+<circle cx="570" cy="120" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="570" y="105" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">X₂</text>
+<circle cx="570" cy="175" r="7" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+<text x="570" y="160" font-family="Times New Roman, serif" font-size="18" text-anchor="middle" fill="#111827">X₃</text>
+<text x="180" y="228" font-family="Times New Roman, serif" font-size="16" text-anchor="middle" fill="#111827">U must connect to A; V must connect to B</text>
+<text x="540" y="228" font-family="Times New Roman, serif" font-size="16" text-anchor="middle" fill="#111827">A variable bag may remain unassigned</text>
+</svg>

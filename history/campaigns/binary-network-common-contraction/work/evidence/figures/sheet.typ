@@ -1,0 +1,6 @@
+#set page(width: 210mm, height: 297mm, margin: 15mm)
+#image("../../figures/binary-spine.svg",width:100%)
+#v(12mm)
+#image("../../figures/incidence-reference.svg",width:100%)
+#v(12mm)
+#image("../../figures/separation-paths.svg",width:100%)

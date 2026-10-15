@@ -1,0 +1,3 @@
+{"case": "one-distinct-clause", "vertices": 234, "peeled_private_gadgets": 24, "yes": true, "recoveries": 2}
+{"case": "empty-with-unused-variables", "vertices": 0, "peeled_private_gadgets": 0, "yes": true, "recoveries": 2}
+{"case": "empty", "vertices": 0, "peeled_private_gadgets": 0, "yes": true, "recoveries": 2}
