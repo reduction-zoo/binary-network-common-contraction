@@ -1,0 +1,7 @@
+{
+  "id": "Q002",
+  "source_definition": "The source gives a finite ground set and an explicit family of subsets. A valid output assigns two colors so that every subset meets both colors, or reports NO-SOLUTION.",
+  "target_definition": "The target gives two binary rooted acyclic networks on the same uniquely labelled leaves and a bound k. Find a common contraction with at least k internal vertices, using acyclicity-preserving internal-edge contractions, or report NO-SOLUTION. A witness supplies both contraction sequences and their labelled isomorphism.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
